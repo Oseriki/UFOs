@@ -15,7 +15,9 @@ Language: JavaScript, HTML, and CSS
 -	“State”, 
 -	“Country” and 
 -	“UFO Shape”. 
- See webpage with filters below.
+
+See webpage with filters below.
+
 ![](static/images/Webpage_Image.JPG)
 
 ## Summary:
