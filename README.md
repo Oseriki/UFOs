@@ -16,7 +16,7 @@ Language: JavaScript, HTML, and CSS
 -	“Country” and 
 -	“UFO Shape”. 
  See webpage with filters below.
-UFO Finder
+![](static/images/Webpage_Image.JPG)
 
 ## Summary:
 
